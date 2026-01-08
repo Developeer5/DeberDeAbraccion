@@ -1,0 +1,3 @@
+Calificación: 2.2/3
+Debe organizar las clases en paquetes
+Ponga datos informativos en cada programa
